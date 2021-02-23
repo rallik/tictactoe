@@ -52,11 +52,11 @@ h1 {
     background-color: #e6e6e6;
 }
 
-.clearboard {
-    width: 10px;
-    height: 10px;
+/* .clearboard {
+    width: 40px;
+    height: 15px;
     background-color: aqua;
-}
+} */
 
 .text {
     width: 100vw;
